@@ -1,0 +1,44 @@
+body {
+    background-color: rgba(235, 149, 36);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'times new roman', serif;
+}
+
+.container {
+    min-height: 100vh;
+    width: 100%;
+    background-color: rgba(235, 149, 36);
+}
+
+main{
+    margin: 20px
+}
+h1{
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(235, 149, 36);
+}
+.navbar ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline-flex;
+}
+.navbar a{
+    color: white;
+    text-decoration:none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+
+}
+.navbar a:hover{
+    background-color: rgb(181, 83, 13);
+}
+
+
+
+
